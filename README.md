@@ -7,7 +7,7 @@ As from November 1st 2021 BedWars1058 by Andrei Dascălu becomes open source und
 # Description
 BedWars is a mini-game where you have to defend your bed and destroy the others.  
 Once your bed is destroyed, you cannot respawn.
-
+1
 # System requirements
 This software runs on [Spigot](https://www.spigotmc.org/) and NMS.
 Spigot forks without compiled NMS code are not supported.
